@@ -221,6 +221,10 @@ section .inner .title{
   clear: both;
 }
 
+#first .inner .wrap .column.right #map{
+  margin-top: 10px;
+}
+
 #first .inner .wrap .column.right .button:hover{
   color: #ffffff;
   background: #000000;
